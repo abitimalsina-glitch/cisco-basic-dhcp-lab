@@ -1,0 +1,18 @@
+enable
+configure terminal
+
+interface gig0/0/0
+ip address 192.168.1.1 255.255.255.0
+no sh
+exit
+
+ip dhcp excluded-address 192.168.1.1
+
+ip dhcp pool LAN
+network 192.168.1.0 255.255.255.0
+default-router 192.168.1.1
+dns-server 1.1.1.1
+exit
+
+end
+write
