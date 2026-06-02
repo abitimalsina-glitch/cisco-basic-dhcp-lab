@@ -76,13 +76,23 @@ Each client automatically received:
 * Default Gateway: `192.168.1.1`
 * DNS Server: `1.1.1.1`
 
+* PC0
+
 ![PC0](images/PC0.png)
+
+* PC1
 
 ![PC1](images/PC1.png)
 
+* PC2
+
 ![PC2](images/PC2.png)
 
+* PC3
+
 ![PC3](images/PC3.png)
+
+* PC4
 
 ![PC4](images/PC4.png)
 
