@@ -109,9 +109,11 @@ Connectivity was verified using ping tests. PC0 successfully communicated with t
 ![Ping Test](images/pinging-pc2.png)
 
 * PC0 → PC3
+  
 ![Ping Test](images/pinging-pc3.png)
 
 * PC0 → PC4
+  
 ![Ping Test](images/pinging-pc4.png)
 
 
