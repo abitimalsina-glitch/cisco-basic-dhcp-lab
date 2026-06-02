@@ -100,13 +100,20 @@ The output confirmed that all five PCs successfully received IP addresses from t
 
 Connectivity was verified using ping tests. PC0 successfully communicated with the other devices on the network, confirming that DHCP configuration and network connectivity were functioning correctly.
 
+#### PC1
+
 ![Ping Test](images/pinging-pc1.png)
+
+#### PC2
 
 ![Ping Test](images/pinging-pc2.png)
 
+#### PC3
 ![Ping Test](images/pinging-pc3.png)
 
+#### PC4
 ![Ping Test](images/pinging-pc4.png)
+
 
 ## Result
 
