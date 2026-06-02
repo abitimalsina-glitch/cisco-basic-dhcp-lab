@@ -100,21 +100,26 @@ The output confirmed that all five PCs successfully received IP addresses from t
 
 Connectivity was verified using ping tests. PC0 successfully communicated with the other devices on the network, confirming that DHCP configuration and network connectivity were functioning correctly.
 
-#### PC1
+* PC0 → PC1
 
 ![Ping Test](images/pinging-pc1.png)
 
-#### PC2
+* PC0 → PC2
 
 ![Ping Test](images/pinging-pc2.png)
 
-#### PC3
+* PC0 → PC3
 ![Ping Test](images/pinging-pc3.png)
 
-#### PC4
+* PC0 → PC4
 ![Ping Test](images/pinging-pc4.png)
 
 
 ## Result
 
 DHCP was successfully configured using a Cisco router as the DHCP server. The router dynamically assigned IP addresses and network settings to all client devices, while reserving `192.168.1.1` as the default gateway. Verification confirmed that all clients received valid DHCP leases and were able to join the network successfully.
+
+## Tools Used
+
+* Cisco Packet Tracer
+* Cisco CLI
